@@ -29,7 +29,7 @@
 #
 # pip install "apache-airflow==X.Y.Z" "snowflake-connector-python[pandas]==2.9.0"
 #
-Authlib==1.2.1
+Authlib==1.6.11
 Babel==2.12.1
 ConfigUpdater==3.1.1
 Deprecated==1.2.14
@@ -241,7 +241,7 @@ coverage==7.2.7
 crcmod==1.7
 cron-descriptor==1.4.0
 croniter==1.4.1
-cryptography==40.0.2
+cryptography==46.0.7
 curlify==2.2.1
 dask==2023.4.1
 databricks-sql-connector==2.7.0
@@ -524,7 +524,7 @@ pytest-instafail==0.5.0
 pytest-rerunfailures==12.0
 pytest-timeouts==1.2.1
 pytest-xdist==3.3.1
-pytest==7.4.0
+pytest==9.0.3
 python-arango==7.5.8
 python-daemon==3.0.1
 python-dateutil==2.8.2
